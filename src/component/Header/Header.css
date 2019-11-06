@@ -1,0 +1,24 @@
+.header{
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.header h1{
+    text-align: center;
+}
+
+.header-btns{
+    display: flex;
+    height: 2rem;
+    justify-content: space-between;
+}
+
+.header-btns button img, .header-btns button{
+    width: 2rem;
+    height: 2rem;
+}
+
+.header-btns button{
+    margin: 0 1rem;
+}

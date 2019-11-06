@@ -1,0 +1,22 @@
+.add-form{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.add-inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 8rem;
+}
+
+.add-inputs input{
+
+}
+
+.add-btns{
+    display: flex;
+    justify-content: space-between;
+}
